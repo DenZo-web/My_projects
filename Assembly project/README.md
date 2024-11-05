@@ -1,4 +1,5 @@
-## Ссылка на тетрадку JupyterNotebook: >  [Assembly project](https://github.com/DenZo-web/My_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb)
+## Ссылка на тетрадку JupyterNotebook:
+[Изучение поведения пользователей мобильного приложения.](https://github.com/DenZo-web/My_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb)
 
 ## Описание проекта:   
 Вы работаете в стартапе, который продаёт продукты питания. Нужно разобраться, как ведут себя пользователи вашего мобильного приложения.  
