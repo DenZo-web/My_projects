@@ -2,4 +2,4 @@
 | Название проекта | Описание | Стек | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Изучение поведения пользователей мобильного приложения](https://github.com/DenZo-web/Practicum_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb) | Проанализировал воронку продаж, выяснил сколько пользователей доходит до покупки и на каких шагах они останавливаются. Исследовал A/A/B-эксперимент на смену шрифтов в приложении.| *pandas, numpy, seaborn, matplotlib, scipy, plotly* |
-|[Анализ оттока клиентов](https://github.com/DenZo-web/My_projects/blob/main/Last_project/Last%20project.ipynb) | ывы |  *pandas, numpy, seaborn, matplotlib, scipy, math, phik*|
+|[Анализ оттока клиентов](https://github.com/DenZo-web/My_projects/blob/main/Last_project/Last%20project.ipynb) | Выполнил анализ клиентской базы банка с целью выявления факторов, влияющих на отток. Проанализировал распределение клиентов по ключевым признакам, провел корреляционный анализ и проверку гипотез. Разработал сегментацию клиентов с высоким риском оттока и предоставил рекомендации по их удержанию. |  *pandas, numpy, seaborn, matplotlib, scipy, math, phik*|
