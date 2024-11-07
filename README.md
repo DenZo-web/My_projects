@@ -1,4 +1,4 @@
 # My_projects  
-| Название проекта | Описание | Используемые библиотеки | 
+| Название проекта | Описание | Стек | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Сборный проект 2](https://github.com/DenZo-web/Practicum_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb) | ваываваываваывыввававаывавава| *pandas* |
+| [Изучение поведения пользователей мобильного приложения](https://github.com/DenZo-web/Practicum_projects/blob/main/Assembly%20project/Assembly%20project%202.ipynb) | Проанализировал воронку продаж, выяснил сколько пользователей доходит до покупки и на каких шагах они останавливаются. Исследовал A/A/B-эксперимент на смену шрифтов в приложении.| *pandas, numpy, seaborn, matplotlib, scipy, plotly* |
