@@ -81,7 +81,7 @@
 • seaborn   
 • matplotlib  
 • scipy  
-• math
+• math  
 • phik
 
 ## Общий вывод:  
