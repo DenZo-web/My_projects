@@ -23,7 +23,6 @@
 - pandas   
 - numpy   
 - seaborn   
-- matplotlib
 - plotly
 - folium
 
